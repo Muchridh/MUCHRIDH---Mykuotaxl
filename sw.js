@@ -1,6 +1,5 @@
-const CACHE_NAME = 'mykuota-v4';
+const CACHE_NAME = 'mykuota-v5';
 const STATIC_ASSETS = [
-  './',
   './index.html',
   './manifest.json',
   './assets/logo.png',
