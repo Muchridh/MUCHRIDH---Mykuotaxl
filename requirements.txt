@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 telethon==1.36.0
 nest-asyncio==1.6.0
 supabase==2.7.1
 requests==2.31.0
+=======
+telethon==1.36.0
+nest-asyncio==1.6.0
+supabase==2.7.1
+requests==2.31.0
+>>>>>>> 09bf49c6a2da9b646cd96a50e4ac1610e8b6363a
 python-dotenv==1.0.0
