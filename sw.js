@@ -1,10 +1,13 @@
-const CACHE_NAME = 'mykuota-v2';
+const CACHE_NAME = 'mykuota-v4';
 const STATIC_ASSETS = [
-  '/indexxx.html',
-  '/manifest.json',
-  'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap',
-  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css',
-  'https://cdn.jsdelivr.net/npm/remixicon@4.6.0/fonts/remixicon.css'
+  './',
+  './index.html',
+  './manifest.json',
+  './assets/logo.png',
+  './assets/tailwindcss.js',
+  './assets/fonts.css',
+  './assets/remixicon.css',
+  './assets/fontawesome.css'
 ];
 
 // Install - cache static assets

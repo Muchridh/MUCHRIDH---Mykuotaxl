@@ -2,7 +2,7 @@
   "name": "MyKuota - Dashboard Kuota",
   "short_name": "MyKuota",
   "description": "Dashboard monitoring kuota internet profesional",
-  "start_url": "/indexxx.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#84cc16",
@@ -10,15 +10,15 @@
   "categories": ["utilities", "productivity"],
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%2384cc16'/><text x='96' y='130' text-anchor='middle' font-size='120' font-family='Arial' fill='white'>K</text></svg>",
+      "src": "assets/logo.png",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2384cc16'/><text x='256' y='350' text-anchor='middle' font-size='320' font-family='Arial' fill='white'>K</text></svg>",
+      "src": "assets/logo.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ],
@@ -27,7 +27,7 @@
     {
       "name": "Refresh Kuota",
       "short_name": "Refresh",
-      "url": "/indexxx.html?action=refresh"
+      "url": "./index.html?action=refresh"
     }
   ]
 }
